@@ -12,13 +12,14 @@ Computer Science & Software Engineering Student
 
 ---
 
-## Sobre mí
-
-Actualmente estudio Ingeniería en Tecnologías Computacionales y me especializo en desarrollo de software, estructuras de datos, algoritmos y automatización.  
-Me interesa trabajar en proyectos con impacto real, especialmente en backend, sistemas, análisis de datos y machine learning inicial.
-
-Mi enfoque está en desarrollar soluciones claras, escalables y eficientes, mientras continúo fortaleciendo mis fundamentos en ingeniería y ciencias computacionales.
-
+## About Me
+I'm a Computer Science & Software Engineering student focused on building clear, scalable, and efficient software.  
+I'm especially interested in backend engineering, systems, and data/ML (early stage).
+## Current Focus
+- Backend: APIs, service design, persistence, performance
+- Systems: automation, tooling, Linux
+- Data/ML (early stage): pipelines, analysis, computer vision
+- 
 ---
 
 ## Conecta conmigo
@@ -57,14 +58,13 @@ Mi enfoque está en desarrollar soluciones claras, escalables y eficientes, mien
 
 ---
 
-## Estadísticas de GitHub
+##  GitHub Stats
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Nick-2455&show_icons=true&theme=vue-dark&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-2455&layout=compact&theme=vue-dark&hide_border=true" />
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nick-2455&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-2455&layout=compact&theme=vue-dark&hide_border=true" alt="Top languages" />
 </div>
+
 
 ---
 
