@@ -19,7 +19,6 @@ I'm especially interested in backend engineering, systems, and data/ML (early st
 - Backend: APIs, service design, persistence, performance
 - Systems: automation, tooling, Linux
 - Data/ML (early stage): pipelines, analysis, computer vision
-- 
 ---
 
 ## Conecta conmigo
@@ -68,12 +67,11 @@ I'm especially interested in backend engineering, systems, and data/ML (early st
 
 ---
 
-## Mejores Repositorios
+## Featured Projects
 
-Aún estoy organizando y migrando mis repositorios principales.  
-Próximamente aquí estarán:
-
-- Sistema OCR modular (Flask + PyTesseract + OpenCV)  
-- City Planner con backend GIS  
-- Implementaciones avanzadas de algoritmos  
-- Herramientas de análisis y automatización
+- **GreenGrowth (Fullstack)** — GIS-focused city planning platform (fullstack).  
+  https://github.com/nasa-city-planning-engine/GreenGrowth_Fullstack
+- **HIES OCR** — OCR pipeline/app for extracting text from documents (computer vision).  
+  https://github.com/HIES-App/hies-ocr
+- **Visualize iOS** — iOS app for data visualization.  
+  https://github.com/oracle-app/visualize-ios
